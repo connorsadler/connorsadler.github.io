@@ -7,11 +7,15 @@ Last updated: 02/10/2024 by Connor Sadler
 I've been working on the following since being made redundant from Velo:
 
 - Go learning
+- Gmail cleaner project - main ongoing work is a Go backend to allow a user to login using Google (using OAuth2), and scan their Gmail to help them clean it up.
 - Java refresher (as I've been doing Kotlin for a while)
 - leetcode.com puzzles (Java) (profile [here](https://leetcode.com/u/zebsmattz/))
 - Hackerrank questions (Java)
 - Kafka articles - I'm currently working on publishing some "Kafka in action" articles with Java and Spring Boot
-
+- Go - tutorial/demo of how to use the 'cmd' pattern - see [here](https://github.com/connorsadler/go-cmd-sample)
+- Go - tutorial/demo of how to create and reference a package from github - TODO: add link
+- Go - package to provide http logging when making outbound http calls from Go - TODO: add link
+- Go - package to provide http logging when making outbound http calls from Go - TODO: add link
 
 ### Old content (pre 2024)
 
