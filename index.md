@@ -13,7 +13,7 @@ I've been working on the following since being made redundant from Velo:
 - Hackerrank questions (Java)
 - Kafka articles - I'm currently working on publishing some "Kafka in action" articles with Java and Spring Boot
 - Go - tutorial/demo of how to use the 'cmd' pattern - see [here](https://github.com/connorsadler/go-cmd-sample)
-- Go - tutorial/demo of how to create and reference a package from github - see [wip here](https://github.com/connorsadler/go-sample-module)
+- Go - tutorial/demo of how to create and reference a package from github - see [here](https://github.com/connorsadler/go-sample-module)
 - Go - package to provide http logging when making outbound http calls from Go - [wip here - see branches](https://github.com/connorsadler/go-utils/)
 - Go - package to allow a Go Gmail api client program to make 'batch' calls - TODO: Add link to Proof of Concept!
 
