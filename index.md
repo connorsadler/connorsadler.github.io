@@ -15,7 +15,8 @@ I've been working on the following since being made redundant from Velo:
 - Go - tutorial/demo of how to use the 'cmd' pattern - see [here](https://github.com/connorsadler/go-cmd-sample)
 - Go - tutorial/demo of how to create and reference a package from github - see [here](https://github.com/connorsadler/go-sample-module)
 - Go - package to provide http logging when making outbound http calls from Go - [wip here - see branches](https://github.com/connorsadler/go-utils/)
-- Go - package to allow a Go Gmail api client program to make 'batch' calls - TODO: Add link to Proof of Concept!
+- Go - package to allow a Go Gmail api client program to make 'batch' calls - **TODO: Add link to Proof of Concept!**
+- Java - sorting algorithms - [here](https://github.com/connorsadler/public/tree/main/java/sorting-algorithms)
 
 ### Old content (pre 2024)
 
