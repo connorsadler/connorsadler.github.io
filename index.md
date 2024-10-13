@@ -8,7 +8,6 @@ I've been working on the following since being made redundant from Velo:
 
 - Go learning
 - Gmail cleaner project - main ongoing work is a Go backend to allow a user to login using Google (using OAuth2), and scan their Gmail to help them clean it up.
-- Google OAuth2 work - in order to access Gmail - includes work on Access tokens and Refresh tokens, uses a small http server to capture the callback from Google
 - Java refresher (as I've been doing Kotlin for a while)
 - leetcode.com puzzles (Java) (profile [here](https://leetcode.com/u/zebsmattz/))
 - Hackerrank questions (Java)
@@ -18,6 +17,11 @@ I've been working on the following since being made redundant from Velo:
 - Go - package to provide http logging when making outbound http calls from Go - [here](https://github.com/connorsadler/go-utils/)
 - Go - package to allow a Go Gmail api client program to make 'batch' calls - **TODO: Add link to Proof of Concept!**
 - Java - sorting algorithms - [here](https://github.com/connorsadler/public/tree/main/java/sorting-algorithms)
+
+### October 2024
+- More leetcode and algorithms in Java
+- More Go work
+- Google OAuth2 work - in order to access Gmail - includes work on Access tokens and Refresh tokens, uses a small http server to capture the callback from Google
 
 ### Old content (pre 2024)
 
