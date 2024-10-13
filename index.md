@@ -1,6 +1,6 @@
 ## Welcome to Connor's GitHub Pages site
 
-Last updated: 02/10/2024 by Connor Sadler
+Last updated: 13/10/2024 by Connor Sadler
 
 ### Latest work (September 2024 onwards)
 
@@ -8,6 +8,7 @@ I've been working on the following since being made redundant from Velo:
 
 - Go learning
 - Gmail cleaner project - main ongoing work is a Go backend to allow a user to login using Google (using OAuth2), and scan their Gmail to help them clean it up.
+- Google OAuth2 work - in order to access Gmail - includes work on Access tokens and Refresh tokens, uses a small http server to capture the callback from Google
 - Java refresher (as I've been doing Kotlin for a while)
 - leetcode.com puzzles (Java) (profile [here](https://leetcode.com/u/zebsmattz/))
 - Hackerrank questions (Java)
