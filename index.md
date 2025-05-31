@@ -2,7 +2,17 @@
 
 Last updated: 13/11/2024 by Connor Sadler
 
-### Latest work (September 2024 onwards)
+### Latest work
+
+These are my current projects:
+
+- VSCode extension - for my todo list
+- Go Learning - Remote Debugging  TODO: Document findings - Medium? or [here](go_remote_debugging.md)?
+- Learn Go with Tests - Mocking - see [here](https://quii.gitbook.io/learn-go-with-tests/testing-fundamentals/working-without-mocks)
+- Java Learning - concrete OAuth Spring boot example
+
+
+### September 2024 approx
 
 I've been working on the following since being made redundant from Velo:
 
