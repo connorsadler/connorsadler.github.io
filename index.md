@@ -11,10 +11,12 @@ These are my current projects:
 - Learn Go with Tests - Mocking - see [here](https://quii.gitbook.io/learn-go-with-tests/testing-fundamentals/working-without-mocks)
 - Java Learning
     1. concrete OAuth Spring boot example
+        medium [here](https://medium.com/@sallu-salman/implementing-sign-in-with-google-in-spring-boot-application-5f05a34905a8)
+        code [here](https://github.com/Sallu-Salman/auth-server-module)
         learning_2024/auth/oauth/google_login_spring_boot/Sallu-Salman/auth-server-module
     2. Spring oauth tutorial:
-        - example code from Spring [here](https://spring.io/guides/tutorials/spring-boot-oauth2)
-        - [here](https://spring.io/guides/tutorials/spring-boot-oauth2)
+        - tutorial: [here](https://spring.io/guides/tutorials/spring-boot-oauth2)
+            - learning_2024/java/spring/tutorials_june_2025/spring-boot-oauth2
 - Containers tutorials - [labs.iximiuz.com](https://labs.iximiuz.com/tutorials?category=containers)
 
 
