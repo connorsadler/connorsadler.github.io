@@ -11,6 +11,7 @@ These are my current projects:
 - Learn Go with Tests - Mocking - see [here](https://quii.gitbook.io/learn-go-with-tests/testing-fundamentals/working-without-mocks)
 - Java Learning - concrete OAuth Spring boot example
     - example code from Spring [here](https://spring.io/guides/tutorials/spring-boot-oauth2)
+    - tutorial: [here](https://spring.io/guides/tutorials/spring-boot-oauth2)
 - Containers tutorials - [labs.iximiuz.com](https://labs.iximiuz.com/tutorials?category=containers)
 
 
