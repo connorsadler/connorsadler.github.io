@@ -9,9 +9,12 @@ These are my current projects:
 - VSCode extension - for my todo list
 - Go Learning - Remote Debugging  TODO: Document findings - Medium? or [here](go_remote_debugging.md)?
 - Learn Go with Tests - Mocking - see [here](https://quii.gitbook.io/learn-go-with-tests/testing-fundamentals/working-without-mocks)
-- Java Learning - concrete OAuth Spring boot example
-    - example code from Spring [here](https://spring.io/guides/tutorials/spring-boot-oauth2)
-    - tutorial: [here](https://spring.io/guides/tutorials/spring-boot-oauth2)
+- Java Learning
+    1. concrete OAuth Spring boot example
+        learning_2024/auth/oauth/google_login_spring_boot/Sallu-Salman/auth-server-module
+    2. Spring oauth tutorial:
+        - example code from Spring [here](https://spring.io/guides/tutorials/spring-boot-oauth2)
+        - [here](https://spring.io/guides/tutorials/spring-boot-oauth2)
 - Containers tutorials - [labs.iximiuz.com](https://labs.iximiuz.com/tutorials?category=containers)
 
 
