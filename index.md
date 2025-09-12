@@ -2,6 +2,10 @@
 
 Last updated: 13/11/2024 by Connor Sadler
 
+### Handy links
+
+Edit this page here: https://github.com/connorsadler/connorsadler.github.io/blob/main/index.md
+
 ### Latest work
 
 These are my current projects:
