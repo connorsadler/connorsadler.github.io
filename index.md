@@ -6,6 +6,10 @@ Last updated: 13/11/2024 by Connor Sadler
 
 Edit this page [here](https://github.com/connorsadler/connorsadler.github.io/blob/main/index.md)
 
+go-utils work
+- This is a public repo, containing a few small projects
+- I have merged all branches into main now, so no need for different branches!
+
 ### Latest work
 
 These are my current projects:
