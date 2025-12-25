@@ -1,21 +1,25 @@
 ## Welcome to Connor's GitHub Pages site
 
-Last updated: 13/11/2024 by Connor Sadler
+Last updated: 25/12/2025 by Connor Sadler
 
 ### Handy links
 
 Edit this page [here](https://github.com/connorsadler/connorsadler.github.io/blob/main/index.md)
 
-go-utils work
-- This is a public repo, containing a few small projects
-- I have merged all branches into main now, so no need for different branches!
 
 ### Latest work
 
 These are my current projects:
 
-- VSCode extension - for my todo list
-- Go Learning - Remote Debugging  TODO: Document findings - Medium? or [here](go_remote_debugging.md)?
+
+- Advent of Code 2025
+   - I've been having fun with this, and have committed some of the days to my [public github](https://github.com/connorsadler/public/tree/main/advent_of_code_2025)
+   - Day 9 Part 2 is especially challenging, but quite fun. I found some python code on the web to visualize the problem, which was incredibly useful.
+
+- VSCode extension - for my developer shortcuts and utilities
+- Go Learning
+  - Did some Advent of Code 2025 in Go - see above
+  - Remote Debugging  TODO: Document findings - Medium? or [here](go_remote_debugging.md)?
 - Learn Go with Tests - Mocking - see [here](https://quii.gitbook.io/learn-go-with-tests/testing-fundamentals/working-without-mocks)
 - Java Learning
     1. concrete OAuth Spring boot example
@@ -26,6 +30,10 @@ These are my current projects:
         - tutorial: [here](https://spring.io/guides/tutorials/spring-boot-oauth2)
         - dir: learning_2024/java/spring/tutorials_june_2025/spring-boot-oauth2
 - Containers tutorials - [labs.iximiuz.com](https://labs.iximiuz.com/tutorials?category=containers)
+
+- go-utils work
+  - This is a public repo, containing a few small projects
+  - I have merged all branches into main now, so no need for different branches!
 
 
 ### September 2024 approx
