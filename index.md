@@ -4,8 +4,8 @@ Last updated: 25/12/2025 by Connor Sadler
 
 ### Handy links
 
+View this page [here](https://connorsadler.github.io/)
 Edit this page [here](https://github.com/connorsadler/connorsadler.github.io/blob/main/index.md)
-
 
 ### Latest work
 
